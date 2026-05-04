@@ -1,0 +1,6 @@
+{
+  "name": "agent-ira-generador-de-contrasenas-segur-morjy4wu",
+  "version": "1.0.0",
+  "description": "Proyecto de Ira [Gen7]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
